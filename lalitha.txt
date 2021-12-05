@@ -1,5 +1,10 @@
 hello everyone
 welcome to svecw
-welcome to it department 
+
+welcome to it department
+
+python
+java
+
 
 thank you
